@@ -2,10 +2,19 @@
 
 body{
     font-family: 'Open Sans', sans-serif;
-    padding: 2rem;
+    /* padding: 2rem;
     padding-left: 5rem;
-    padding-right: 5rem;
+    padding-right: 5rem; */
     background-color: rgb(218, 218, 218);
     border-top-right-radius: 1rem;
-    box-sizing: inherit;
+    /* box-sizing: inherit;
+    display: inline-block;
+    vertical-align: baseline; */
 }
+
+.container{
+    padding: 0rem 1rem;
+    max-width: 600px;
+    margin:auto;
+}
+
